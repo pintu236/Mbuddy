@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737280045136",
+    "firebase_url": "https://mbuddy-56c0e.firebaseio.com",
+    "project_id": "mbuddy-56c0e",
+    "storage_bucket": "mbuddy-56c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737280045136:android:2e4c994dd465845dea2155",
+        "android_client_info": {
+          "package_name": "com.indieme.mbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737280045136-92v1tfu7js8rm4fm38hcn9oofk6l5582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0hDkzfyZNC5Dmq3aLZ1RjYjOd3e8Vg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737280045136-92v1tfu7js8rm4fm38hcn9oofk6l5582.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

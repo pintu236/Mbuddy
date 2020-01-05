@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margins-->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_x_large">32dp</dimen>
+    <dimen name="margin_xx_large">64dp</dimen>
+
+    <!--Padding-->
+    <dimen name="padding_small">@dimen/margin_small</dimen>
+    <dimen name="padding_large">@dimen/margin_large</dimen>
+    <dimen name="padding_x_large">@dimen/margin_x_large</dimen>
+    <dimen name="edittext_height">40dp</dimen>
+</resources>
